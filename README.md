@@ -1,4 +1,5 @@
 # PasswordManager
-My project SOA, MVC
+My project SOA, MVC, CoreData, SnapKit
 
-My PetProject for safety saving data
+My Pet Project for safety saving data
+
